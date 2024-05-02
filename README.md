@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prutmongkol
 - 👀 I’m interested in back-end development.
-- 🌱 I’m currently learning python and Go.
+- 🌱 I’m currently learning Go and C#.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
