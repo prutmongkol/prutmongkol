@@ -2,7 +2,7 @@
 - 👀 I’m keenly interested in back-end development.
 - 🌱 I’m currently learning python, Go, and C#.
 
-## My Recent tinkering
+## My Recent Tinkering
 - [Static site generator](https://github.com/prutmongkol/static-site-gen): Convert markdown to HTML - python
 - [LogLife - Angular](https://github.com/prutmongkol/loglife-angular-frontend): Lite version of LogLife frontend, using Angular framework
 - [LogLife - .NET](https://github.com/prutmongkol/loglife-dotnet-backend): Lite version of LogLife backend, using .NET Core
