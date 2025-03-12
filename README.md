@@ -11,6 +11,9 @@
 ## Group Project at Generation Thailand Bootcamp
 - [Loglife](https://github.com/JSD6G8/frontend): excercise tracking app - React, Tailwind CSS, Node, Express, MongoDB
 
+## Bits and Bops
+- [Asteroids](https://github.com/prutmongkol/asteroids): A simple Asteroids game with pygame - python
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
